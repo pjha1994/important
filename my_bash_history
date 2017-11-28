@@ -1,0 +1,300 @@
+sudo apt-get update
+sudo apt-get install update
+sudo apt-get install -f
+sudo apt-get install update
+sudo apt-get update
+sudo apt-get install git
+git clone https://github.com/abhi-infrrd/init.git
+ls
+cd init/
+ls
+mv iter1/ ~/Desktop/
+mv test_-recommender/ ~/Desktop/
+ls
+git status
+git add .
+git commit -m 'remove help files'
+git config --global user.email "abhishekjha@infrrd.ai"
+git config --global user.name "abhi-infrrd"
+git add .
+git commit -m 'remove help files'
+git pus
+git push
+sudo apt-get install software-properties-common
+sudo apt-add-repository universe
+sudo apt-get update
+sudo apt-get install python-pip
+sudo apt-get install python python-dev libatlas3-base-dev gcc gfortran g++
+sudo apt-get install python python-dev gcc gfortran g++
+sudo apt-get install python python-dev  gcc gfortran g++
+pip install numpy
+pip install --upgrade pip
+sudo pip install scipy lightfm sklearn pandas nltk
+sudo pip install flask
+cd
+ls
+cd Desktop/
+ls
+cd test_-recommender/
+ls
+cd ..
+cd iter1/
+ls
+sudo apt-get install jupyter
+pip install jupyter
+sudo pip install jupyter
+ls
+jupyter notebook
+pip install flask
+clear
+jupyter notebook
+clear
+jupyter notebook
+sudo pip install skopt
+sudo pip install scikit-skopt
+apt-cache search skopt
+apt-cache search sklearn-skopt
+apt-cache search sklearnskopt
+sudo pip install scikit-optimize
+ssh 192.168.0.101 -l pui
+ssh 192.168.0.101 -l pi
+ifconfig
+ssh 192.168.0.103 -l pi
+ssh 192.168.0.100 -l pi
+ssh 192.168.0.100 -l root
+ssh 192.168.0.100 -l p
+ssh 192.168.0.100 -l pi
+ssh 192.168.0.100 -l pi\
+ssh 192.168.0.100 -l pi
+cd
+ssh 192.168.0.100 -l pi
+ls
+cd Downloads/
+ls
+sudo dpkg -i vagrant_2.0.0_x86_64.deb 
+vagrant
+man vagrant
+sudo apt-get install update
+sudo apt-get update
+ssh 192.168.0.100m-l pi
+ssh 192.168.0.100 -l pi
+ls
+cd Desktop/
+ls
+git clone https://github.com/infer-ai/cf.git
+cd cf/
+ls
+branch -a
+git branch -a
+git checkout origin/abhishekjha/products 
+git checkout -b abhishekjha/products 
+git branch
+ls
+cd merge_files_create_table/
+ls
+sudo nano hybrid_recommender.py 
+sudo nano CPA_recommender.py 
+git diff origin/ashwin/cparecommendations hybrid_recommender.py
+git diff origin/ashwin/cparecommendations CPA_recommender.py
+git diff origin/ashwin/cparecommendations api.py
+clear
+sudo nano hybrid_recommender.py 
+sudo nano CPA_recommender.py 
+ls
+jupyter notebook
+sudo nano hybrid_recommender.py
+ifconfig
+sudo restart network-manager
+ifconfig
+cd Desktop/cf/merge_files_create_table/
+gedit CPA_recommender.py 
+gedit hybrid_recommender.py 
+ls
+clear
+export FLASK_APP=api.py 
+sudo nano api.py 
+python -m flask run --host=0.0.0.0 -p 2273
+gedit CPA_recommender.py 
+python -m flask run --host=0.0.0.0 -p 2273
+clear
+ifvonfig
+ifconfig
+jupyter notebook
+jupyter notebook
+cd Desktop/cf/
+ls
+cd merge_files_create_table/
+ls
+sudo nano api.py
+ls
+rm *.pickle
+ls
+rm *.pkl
+ls
+rm *.pyc
+ls
+sudo nano api.py 
+export FLASK_APP=api.py
+sudo nano api.py 
+python -m flask run --host=0.0.0.0 -p 2273
+sudo nano CPA_recommender.py
+gedit CPA_recommender.py
+clear
+python -m flask run --host=0.0.0.0 -p 2273
+clear
+rm *.pickle
+ls
+rm *.pkl
+ls
+rm *.pyc
+ls
+python -m flask run --host=0.0.0.0 -p 2273
+ls
+rm *.pickle
+rm *.pkl
+ls
+rm *.pyc
+la
+ls
+python -m flask run --host=0.0.0.0 -p 2273
+clear
+cd Desktop/
+cd cf/
+git status
+git add *.py
+git status
+git commit -m 'CPA recommender fix'
+git push
+git push --set-upstream origin abhishekjha/products
+git pull
+git merge origin/raghuram/dev
+sudo nano cd merge_files_create_table/q
+ls
+cd merge_files_create_table/
+ls
+sudo nano hybrid_recommender.py
+git sttaus
+git status
+git add *.py
+git status
+git commit -m 'Merge with raghu'
+git push
+ls
+git reflog
+git log
+clear
+ifconfig
+cd Desktop/cf/
+ls
+cd merge_files_create_table/
+ls
+jupyter notebook 
+jupyter notebook
+spyder
+apt-cache search spyder
+sudo apt-get install spyder
+sudo add-apt-repository ppa:webupd8team/sublime-text-2
+sudo apt-get update
+sudo apt-get install sublime-text
+sublime-text 
+clear
+fuser 27017/tcp
+man fuser
+fuser 27017
+nc -h
+service mongodb sttaus
+service mongodb status
+mongodb -h
+sudo apt-get install mongo-client
+apt-cache search mongo
+sudo apt-get install mongo-org-server
+sudo apt-get install mongodb-org-server
+sudo apt-get install mongodb-org-tools
+sudo apt-get install mongodb-org-shell
+sudo apt-get install mongodb-org-mongos
+sudo apt-get install mongodb-server
+sudo service mongod stop
+sudo mongod
+sudo mongod --dbpath
+sudo mongod --dbpath '.'
+service mongod status
+python
+clear
+apt-cache robomongo
+apt-cache search robomongo
+gedit UserEnrollmentsCompletions_10132017.txt
+mongo -h
+nc -vz 192.168.0.191 27017
+mongo -h
+apt-cache search mongo
+sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv EA312927
+echo "deb http://repo.mongodb.org/apt/ubuntu xenial/mongodb-org/3.2 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-3.2.list
+sudo apt-get update
+sudo apt-get install -y mongodb-org
+mongo -h
+mongodb
+mongo
+mongod
+mongostat
+sudo nano /etc/systemd/system/mongodb.service
+sudo systemctl start mongodb
+sudo systemctl status mongodb
+sudo nano /etc/systemd/system/mongodb.service
+sudo nano /etc/mongod.conf 
+service mongod status
+service mongod staart
+service mongod start
+service mongod status
+sudo rm /var/lib/mongodb/mongod.lock
+mongod --repair
+sudo service mongodb start
+sudo service mongodb status
+mongodb
+mongodb - h
+nc -vz 192.168.0.191 27017
+man nc
+man ps
+ps -ef
+ps -ef | grep mongo
+kill 31258
+ps -ef | grep mongo
+sudo kill 31258
+ps -ef | grep mongo
+3>&1 nc -c 192.168.0.191 27017
+nc -c 192.168.0.191 27017
+nc  192.168.0.191 27017
+ps -ef | grep mongo
+kill 31258
+ps -ef | grep mongo
+ps -ef
+kill 31258
+ps -ef
+ls
+sudo -i
+ls
+cd 
+cd Desktop/
+ls
+git clone https://github.com/lyst/lightfm.git
+spyder
+apt-cache search spyder
+sudo apt-get install spyder
+sudo apt-get install spyder3
+easy_install pydicom
+sudo easy_install pydicom
+spyder
+spyder3
+sudo apt-get purge spyder3
+python
+python3
+sudo apt-get purge python3
+python
+python3
+spyder3
+spyder
+pip install --upgrade spyder
+sudo pip install --upgrade spyder
+spyder
+spyder3
+sudo pip install -U spyder
+spyder3
